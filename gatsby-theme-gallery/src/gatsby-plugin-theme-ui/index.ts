@@ -7,12 +7,10 @@ export default {
   },
   colors: {
     text: "#000",
-    background: "#fff",
     primary: "#639",
     modes: {
       dark: {
         text: "#fff",
-        background: "#151515",
         primary: "#A5F",
       },
     },
